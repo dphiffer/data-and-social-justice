@@ -52,20 +52,21 @@ Tutorial: Atom + git + GitHub
 Video: [Ta Nehisi-Coates, the day after the 2016 election](https://www.youtube.com/watch?v=9MPbVUJIQHM)  
 
 Reading: [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by Sarah Kendzior  
-Reading: [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264)  
+Reading: [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264) by Ingrid Burrington  
 Assignment: _Write about an issue you care especially about, that could be improved through activism_
 
 ## Week 2
 
 ### Tue 2018-09-11
 Discussion  
-Tutorial: HTML + CSS  
+Tutorial: HTML + CSS
 
 ### Thu 2018-09-13
 Tutorial: Web forms  
 Video: [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by Wendy Hui Kyong Chun
 
 Reading: [Gin, Television and Cognitive Surplus](https://www.edge.org/conversation/clay_shirky-gin-television-and-cognitive-surplus) by Clay Shirky  
+Reading: [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by W Patrick McCray  
 Assignment: _Design a propaganda pamphlet_
 
 ## Week 3
@@ -104,7 +105,7 @@ Tutorial: node.js
 Tutorial: socket.io  
 Video: [Kyle Whyte](https://www.youtube.com/watch?v=ZM_FpwcRxU0)
 
-Reading: [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/)  
+Reading: [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg  
 Assignment: _Propose a midterm project_
 
 ## Week 6
@@ -117,7 +118,7 @@ Tutorial: flat file storage
 Tutorial: databases  
 Video: [The Moderators](https://fieldofvision.org/the-moderators)
 
-Reading: [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/)   
+Reading: [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by  Shannon Mattern  
 Assignment: _Work on your midterm project_
 
 ## Week 7
@@ -168,11 +169,16 @@ Video: [Mimi Onuoha at Eyeo](https://vimeo.com/233011125)
 Reading: tbd  
 Assignment: _Download and analyze your social media archives_
 
+## Week 11
+
 ### No class Tue (plan day)
 
 ### Thu 2018-11-15
 Tutorial: Instagram API  
 Video: [7on7 Miranda July & Paul Ford](https://vimeo.com/167171454)
+
+Reading: tbd
+Assignment: _Create a web-based work based on your social media archives_
 
 ## Week 12
 
@@ -184,6 +190,8 @@ _Thanksgiving Break_
 
 Reading: [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech)
 
+## Week 13
+
 ### Tue 2018-11-27
 Discussion  
 Tutorial: Mastodon
@@ -192,7 +200,7 @@ Tutorial: Mastodon
 Guest speaker: tbd
 
 Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer  
-Audio: [At Liberty: Learning from Charlottesville](https://www.aclu.org/podcast/lessons-charlottesville-ep-8)  
+Reading: [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/)
 Assignment: _Propose a final project_
 
 ## Week 14
