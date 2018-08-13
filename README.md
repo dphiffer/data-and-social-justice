@@ -97,24 +97,24 @@ Assignment: _Write a letter to the editor of a daily newspaper_
 ## Week 5
 
 ### Tue 2018-10-02
-Discussion
+Discussion  
 Tutorial: node.js
 
 ### Thu 2018-10-04
-Tutorial: socket.io
+Tutorial: socket.io  
 Video: [Kyle Whyte](https://www.youtube.com/watch?v=ZM_FpwcRxU0)
 
-Reading: [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/)
+Reading: [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/)  
 Assignment: _Propose a midterm project_
 
 ## Week 6
 
 ### Tue 2018-10-09
-Discussion
+Discussion  
 Tutorial: flat file storage
 
 ### Thu 2018-10-11
-Tutorial: databases
+Tutorial: databases  
 Video: [The Moderators](https://fieldofvision.org/the-moderators)
 
 Reading: [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/)   
