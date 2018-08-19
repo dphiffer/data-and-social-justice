@@ -38,7 +38,11 @@ Though we will meet in a lab that has computers, some of you will need to bring 
 
 I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner.
 
-_This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%20of%20Data)_
+## Readings
+
+All readings are either available from public websites or (if not) will be shared with students digitally. You may want to purchase a paper copy of [*Notes Toward a Performative Theory of Assembly*](http://www.hup.harvard.edu/catalog.php?isbn=9780674983984) for weeks 3-5 readings.
+
+_This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%20of%20Data) and [Daniel Shiffman's Open Source Studio](https://github.com/shiffman/Open-Source-Studio-ITP)_
 
 ## Week 1
 
@@ -153,6 +157,8 @@ __Monday 2018-10-15__
 
 * _Midterm presentations_
 
+__Event__: [AI Now Symposium](https://ainowinstitute.org/announcements/ai-now-2018-symposium.html) Tuesday
+
 __Wednesday 2018-10-17__
 
 * _Midterm presentations_
@@ -195,6 +201,7 @@ __Wednesday 2018-10-31__
 __Readings__
 
 * Weapons of Math Destruction, Chapter 5: Civilian Casualties by Cathy O'Neil
+* [Mimi Onuoha at Eyeo](https://vimeo.com/233011125)
 
 __Assignment__: tbd
 
@@ -226,7 +233,7 @@ __Monday 2018-11-12__
 __Wednesday 2018-11-14__
 
 * Tutorial: social media archives
-* Video: [7on7 Miranda July & Paul Ford](https://vimeo.com/167171454)
+* Video: [7on7 Miranda July + Paul Ford](https://vimeo.com/167171454)
 
 __Readings__
 
@@ -239,7 +246,7 @@ __Assignment__: _Create a web-based work based on your social media archives_
 __Monday 2018-11-19__
 
 * Discussion
-* Video: [The Moderators](https://fieldofvision.org/the-moderators)
+* Video: [The Moderators](https://fieldofvision.org/the-moderators) by Adrian Chen + Ciaran Cassidy
 
 __Wednesday 2018-11-21__
 
