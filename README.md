@@ -52,7 +52,7 @@ __Readings__
 * [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by Sarah Kendzior
 * [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264) by Ingrid Burrington
 
-__Assignment__: _Write a letter to the editor of a daily newspaper_
+__Assignment__: _Write about a social justice issue you feel could benefit from your activism_
 
 ## Week 2
 
@@ -64,14 +64,14 @@ __Monday 2018-09-10__
 __Wednesday 2018-09-12__
 
 * Tutorial: HTML + CSS + JavaScript
-
+* Video: [The Gap](https://vimeo.com/85040589) by Ira Glass
 
 __Readings__
 
-* [Gin, Television and Cognitive Surplus](https://www.edge.org/conversation/clay_shirky-gin-television-and-cognitive-surplus) by Clay Shirky
+* [Worms, Butterflies and Dandelions](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
 * [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by W Patrick McCray
 
-__Assignment__: _Design a propaganda pamphlet_
+__Assignment__: _Design a propaganda website_
 
 ## Week 3
 
@@ -87,7 +87,7 @@ __Wednesday 2018-09-19__
 
 __Readings__
 
-* [For and Against Precarity](http://www.e-flux.com/wp-content/uploads/2013/05/TIDAL_occupytheory.pdf) by Judith Butler
+* Butler, Judith. "Gender Politics and the Right to Appear." *Notes Toward a Performative Theory of Assembly*
 
 __Assignment__: _Create an online petition and solicit signatures_
 
@@ -105,7 +105,7 @@ __Wednesday 2018-09-26__
 
 __Readings__
 
-* [Palantir in New Orleans (part 1)](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd) [(part 2)](https://www.theverge.com/2018/3/15/17126174/new-orleans-palantir-predictive-policing-program-end) by Ali Winston
+* Butler, Judith. "Bodies in Alliance and the Politics of the Street." *Notes Toward a Performative Theory of Assembly*
 
 __Assignment__: _Social justice organization research project_
 
@@ -125,8 +125,7 @@ __Wednesday 2018-10-03__
 
 __Readings__
 
-* [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg
-* [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Shannon Mattern
+* Butler, Judith. "Toward an Ethics of Co-Habitation." *Notes Toward a Performative Theory of Assembly*
 
 __Assignment__: _Propose a midterm project_
 
@@ -143,7 +142,8 @@ __Wednesday 2018-10-10__
 
 __Readings__
 
-* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by Brooke Gladstone
+* [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg
+* [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Shannon Mattern
 
 __Assignment__: _Work on your midterm project_
 
@@ -160,7 +160,7 @@ __Wednesday 2018-10-17__
 __Readings__
 
 * _Popular technology_ by Virginia Eubanks
-* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by Simone Browne, Heather Dewey-Hagborg and Joerg Blumtritt
+* [The Not-So-Hidden Politics of Class Online](http://www.danah.org/papers/talks/PDF2009.html) by danah boyd
 
 ## Week 8
 
@@ -176,6 +176,7 @@ __Wednesday 2018-10-24__
 __Readings__
 
 * [Capta and Data](https://blogs.ischool.utexas.edu/f2011dh/2011/10/31/capta-and-data-visualization-the-humanistic-method-and-representing-knowledge/) by Bethany Anderson
+* [Do Not Track Episode 1](https://episode1.donottrack-doc.com/en/)
 
 __Assignment__: tbd
 
@@ -212,7 +213,8 @@ __Wednesday 2018-11-07__
 
 __Readings__
 
-* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by  Zeynep Tufekci
+* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by Brooke Gladstone
+* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by Simone Browne, Heather Dewey-Hagborg and Joerg Blumtritt
 
 ## Week 11
 
@@ -230,7 +232,7 @@ __Readings__
 
 * [Hatebook: Inside Facebook’s Myanmar operation](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/) by Steve Stecklow
 
-__Assignment__: _Download and analyze your social media archives_
+__Assignment__: _Create a web-based work based on your social media archives_
 
 ## Week 12
 
@@ -245,10 +247,10 @@ __Wednesday 2018-11-21__
 
 __Readings__
 
-* [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech)
+* [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech) by Laura Hudson
+* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by  Zeynep Tufekci
 
-__Assignment 1__: _Create a web-based work based on your social media archives_
-__Assignment 2__: _Propose a final project_
+__Assignment__: _Propose a final project_
 
 ## Week 13
 
@@ -279,7 +281,7 @@ __Wednesday 2018-12-05__
 
 * Guest speaker: tbd
 
-Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer  
+Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer
 Reading: [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/)
 Assignment: _Work on final project_
 
