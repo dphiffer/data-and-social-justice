@@ -1,8 +1,9 @@
-# Data & Social Justice
+# Data + Social Justice
+
 Bennington College, Fall 2018  
-Instructor: Dan Phiffer  
-Time: Tue/Thu 6:30-8:20  
-Course Number: DA 2135.01, 4 credits  
+Instructor: [Dan Phiffer](https://phiffer.org/)  
+Time: Monday/Wednesday 6:30-8:20  
+Course Number: DA 2135.01, 4 credits
 
 ## Course Description
 
@@ -13,7 +14,7 @@ Digital technologies have fundamentally shifted how social justice movements ope
 * Class attendance and punctuality
 * Participation during class discussions and presentations
 * Weekly assignments + accompanying blog posts
-* Midterm and final project (completed individually or in groups) + online documentation
+* Midterm and final project + online documentation
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discrimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.
 
@@ -21,7 +22,7 @@ All students are allowed a maximum of two absences. It is worth stressing that b
 
 ## Evaluation
 
-Final evaluation will be based on the completion of all assignments, blogposts, class participation, quality of work, and attendance.
+Final evaluation will be based on the completion of all assignments, blog posts, class participation, quality of work, and attendance.
 
 For homework assignments, it is more important that you put forth effort and attempts to understand and experiment with the material than it is for you to create a 100% successful project (particularly for first-time coders). Everyone gets one free pass for turning in an assignment late, but only one.
 
@@ -29,13 +30,11 @@ For the midterm and final projects, I am more interested in what you choose to d
 
 ## Format
 
-The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. Because each theme consists of both a technical and conceptual idea, most themes will span two weeks.
+The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. The first half of the course is concerned with the world wide web, while the second half of the course is more about using data.
 
-Each class will have the same structure: the first portion of class will be devoted to reviewing homework. The next will consist of a critical reading, viewing, or discussion. The last will consist of a coding exercise or technical workshop (I will screen-record the technical sections of class so that you can refer to them outside of class). The portions of class devoted to each of these will differ depending on the week.
+There is a consistent pattern to the course schedule: first we discuss readings and any work assigned, then we'll do a technical tutorial, followed by a video or case study. I will screen-record the technical sections of class so that you can refer to them outside of class.
 
-For some weeks, there will be additional links and resources provided. It is not necessary for you to look at these, however, it would certainly be interesting to look at them and think through connections to the subject matter of the class.
-
-Though we will meet in a lab that has computers, it may be beneficial to bring your laptop with you to class.
+Though we will meet in a lab that has computers, some of you will need to bring your laptop with you to class, as we have more students enrolled than workstations.
 
 I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner.
 
@@ -43,180 +42,253 @@ _This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%
 
 ## Week 1
 
-### Tue 2018-09-04
-Introductions  
-Tutorial: command line  
+__Wednesday 2018-09-05__
 
-### Thu 2018-09-06
-Tutorial: Atom + git + GitHub  
-Video: [Ta Nehisi-Coates, the day after the 2016 election](https://www.youtube.com/watch?v=9MPbVUJIQHM)  
+* Introductions
+* Tutorial: command line
 
-Reading: [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by Sarah Kendzior  
-Reading: [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264) by Ingrid Burrington  
-Assignment: _Write about an issue you care especially about, that could be improved through activism_
+__Readings__
+
+* [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by Sarah Kendzior
+* [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264) by Ingrid Burrington
+
+__Assignment__: _Write a letter to the editor of a daily newspaper_
 
 ## Week 2
 
-### Tue 2018-09-11
-Discussion  
-Tutorial: HTML + CSS
+__Monday 2018-09-10__
 
-### Thu 2018-09-13
-Tutorial: Web forms  
-Video: [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by Wendy Hui Kyong Chun
+* Discussion
+* Tutorial: Atom + git + GitHub
 
-Reading: [Gin, Television and Cognitive Surplus](https://www.edge.org/conversation/clay_shirky-gin-television-and-cognitive-surplus) by Clay Shirky  
-Reading: [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by W Patrick McCray  
-Assignment: _Design a propaganda pamphlet_
+__Wednesday 2018-09-12__
+
+* Tutorial: HTML + CSS + JavaScript
+
+
+__Readings__
+
+* [Gin, Television and Cognitive Surplus](https://www.edge.org/conversation/clay_shirky-gin-television-and-cognitive-surplus) by Clay Shirky
+* [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by W Patrick McCray
+
+__Assignment__: _Design a propaganda pamphlet_
 
 ## Week 3
 
-### Tue 2018-09-18
-Discussion  
-Tutorial: Mobile web
+__Monday 2018-09-17__
 
-### Thu 2018-09-20
-Tutorial: JavaScript  
-Video: [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
+* Discussion
+* Tutorial: Web forms + AJAX
 
-Reading: [For and Against Precarity](http://www.e-flux.com/wp-content/uploads/2013/05/TIDAL_occupytheory.pdf) by Judith Butler  
-Assignment: _Create an online petition and solicit signatures_
+__Wednesday 2018-09-19__
+
+* Tutorial: Mobile web
+* Video: [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
+
+__Readings__
+
+* [For and Against Precarity](http://www.e-flux.com/wp-content/uploads/2013/05/TIDAL_occupytheory.pdf) by Judith Butler
+
+__Assignment__: _Create an online petition and solicit signatures_
 
 ## Week 4
 
-### Tue 2018-09-25
-Discussion  
-Tutorial: Document Object Model
+__Monday 2018-09-24__
 
-### Thu 2018-09-27
-Tutorial: AJAX  
-Video: [Motherboard: Free the Network](https://www.youtube.com/watch?v=Fx93WJPCCGs)
+* Discussion
+* Tutorial: images + audio + videos
 
-Reading: [Palantir in New Orleans (part 1)](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd) [(part 2)](https://www.theverge.com/2018/3/15/17126174/new-orleans-palantir-predictive-policing-program-end) by Ali Winston  
-Assignment: _Write a letter to the editor of a daily newspaper_
+__Wednesday 2018-09-26__
+
+* Tutorial: screencaps + GIFs
+* Video: [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by Hito Steyerl
+
+__Readings__
+
+* [Palantir in New Orleans (part 1)](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd) [(part 2)](https://www.theverge.com/2018/3/15/17126174/new-orleans-palantir-predictive-policing-program-end) by Ali Winston
+
+__Assignment__: _Social justice organization research project_
+
+__Event__: [Forward Union](http://www.forwardunion.org/) Saturday + Sunday
 
 ## Week 5
 
-### Tue 2018-10-02
-Discussion  
-Tutorial: node.js
+__Monday 2018-10-01__
 
-### Thu 2018-10-04
-Tutorial: socket.io  
-Video: [Kyle Whyte](https://www.youtube.com/watch?v=ZM_FpwcRxU0)
+* Discussion
+* Tutorial: JSON + CSV + Zip
 
-Reading: [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg  
-Assignment: _Propose a midterm project_
+__Wednesday 2018-10-03__
+
+* Tutorial: Document Object Model
+* Video: [Kyle Whyte](https://www.youtube.com/watch?v=ZM_FpwcRxU0)
+
+__Readings__
+
+* [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg
+* [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Shannon Mattern
+
+__Assignment__: _Propose a midterm project_
 
 ## Week 6
 
-### Tue 2018-10-09
-Discussion  
-Tutorial: flat file storage
+__Monday 2018-10-08__
 
-### Thu 2018-10-11
-Tutorial: databases  
-Video: [The Moderators](https://fieldofvision.org/the-moderators)
+* Discussion
+* Tutorial: Leaflet
 
-Reading: [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by  Shannon Mattern  
-Assignment: _Work on your midterm project_
+__Wednesday 2018-10-10__
+
+* Tutorial: Census/TIGER
+
+__Readings__
+
+* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by Brooke Gladstone
+
+__Assignment__: _Work on your midterm project_
 
 ## Week 7
 
-### Tue 2018-10-16
-_Midterm presentations_
+__Monday 2018-10-15__
 
-### Thu 2018-10-18
-_Midterm presentations_
+* _Midterm presentations_
 
-Reading: [Popular technology](#)
+__Wednesday 2018-10-17__
+
+* _Midterm presentations_
+
+__Readings__
+
+* _Popular technology_ by Virginia Eubanks
+* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by Simone Browne, Heather Dewey-Hagborg and Joerg Blumtritt
 
 ## Week 8
 
-### Tue 2018-10-23
-Discussion  
-Tutorial: images
+__Monday 2018-10-22__
 
-### Thu 2018-10-25
-Tutorial: screencaps + GIFs  
-Video: [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by Hito Steyerl
+* _No class (long weekend)_
 
-Reading: [In Defense of the Poor Image](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) by Hito Steyerl  
-Group assignment: _Contact an existing social justice organization and propose a project_
+__Wednesday 2018-10-24__
+
+* Discussion
+* Case study: ACLU Voter
+
+__Readings__
+
+* [Capta and Data](https://blogs.ischool.utexas.edu/f2011dh/2011/10/31/capta-and-data-visualization-the-humanistic-method-and-representing-knowledge/) by Bethany Anderson
+
+__Assignment__: tbd
 
 ## Week 9
 
-### Tue 2018-10-30
-Discussion  
-Tutorial: JSON
+__Monday 2018-10-29__
 
-### No class Thu (plan day)
+* Discussion
+* Tutorial: email
 
-Reading: [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/)  
-Group assignment: _Work on your organization project_
+__Wednesday 2018-10-31__
+
+* Tutorial: Twilio
+* Case study: SMS community engagement
+
+__Readings__
+
+* Weapons of Math Destruction, Chapter 5: Civilian Casualties by Cathy O'Neil
+
+__Assignment__: tbd
 
 ## Week 10
 
-### Tue 2018-11-06
-_Election Day_  
-Discussion  
-Tutorial: CSV
+__Monday 2018-11-05__
 
-### Thu 2018-11-08
-Tutorial: Social media archives  
-Video: [Mimi Onuoha at Eyeo](https://vimeo.com/233011125)
+* Discussion
+* Tutorial: node.js + express + socket.io
 
-Reading: tbd  
-Assignment: _Download and analyze your social media archives_
+_Election Day Tuesday_
+
+__Wednesday 2018-11-07__
+
+* _No class (plan day)_
+
+__Readings__
+
+* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by  Zeynep Tufekci
 
 ## Week 11
 
-### No class Tue (plan day)
+__Monday 2018-11-12__
 
-### Thu 2018-11-15
-Tutorial: Instagram API  
-Video: [7on7 Miranda July & Paul Ford](https://vimeo.com/167171454)
+* Discussion
+* Tutorial: social media APIs
 
-Reading: tbd
-Assignment: _Create a web-based work based on your social media archives_
+__Wednesday 2018-11-14__
+
+* Tutorial: social media archives
+* Video: [7on7 Miranda July & Paul Ford](https://vimeo.com/167171454)
+
+__Readings__
+
+* [Hatebook: Inside Facebook’s Myanmar operation](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/) by Steve Stecklow
+
+__Assignment__: _Download and analyze your social media archives_
 
 ## Week 12
 
-### Tue 2018-11-20
-Tutorial: Twitter API  
-Video: [How I won the lottery](https://www.youtube.com/watch?v=l_F9jxsfGCw) by Darius Kazemi
+__Monday 2018-11-19__
 
-_Thanksgiving Break_
+* Discussion
+* Video: [The Moderators](https://fieldofvision.org/the-moderators)
 
-Reading: [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech)
+__Wednesday 2018-11-21__
+
+* _No class (Thanksgiving)_
+
+__Readings__
+
+* [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech)
+
+__Assignment 1__: _Create a web-based work based on your social media archives_
+__Assignment 2__: _Propose a final project_
 
 ## Week 13
 
-### Tue 2018-11-27
-Discussion  
-Tutorial: Mastodon
+__Monday 2018-11-26__
 
-### Thu 2018-11-29
-Guest speaker: tbd
+* Discussion
+* Tutorial: browser plugins
 
-Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer  
-Reading: [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/)
-Assignment: _Propose a final project_
+__Wednesday 2018-11-28__
+
+* Tutorial: Puppeteer
+* Video: [How I won the lottery](https://www.youtube.com/watch?v=l_F9jxsfGCw) by Darius Kazemi
+
+__Readings__
+
+* [Google risks mega-fine in EU over location 'stalking'](https://www.theregister.co.uk/2018/08/16/google_risks_megafine_in_eu_over_location_stalking/)
+
+__Assignment__: _Work on final project_
 
 ## Week 14
 
-### Tue 2018-12-04
-Discussion  
-Tutorial: Browser plugins
+__Monday 2018-12-03__
 
-### Thu 2018-12-06
-Lab day
+* Discussion
+* Tutorial: using computers safely
+
+__Wednesday 2018-12-05__
+
+* Guest speaker: tbd
+
+Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer  
+Reading: [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/)
+Assignment: _Work on final project_
 
 ## Week 15
 
-### Tue 2018-12-11
-_Final Projects_
+__Monday 2018-12-10__
 
-### Thu 2018-12-13
-_Final Projects_
+* _Final Projects_
 
+__Wednesday 2018-12-12__
+
+* _Final Projects_
