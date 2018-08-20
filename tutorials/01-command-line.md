@@ -139,7 +139,7 @@ You can work with the macOS clipboard using `pbcopy` and `pbpaste`.
 
 There are keyboard shortcuts that can save you lots of time when you're working in the terminal.
 
-* Without pressing enter, type: `open .s` and then press the tab key.
+* Without pressing enter, type: `open .s` and then press the tab key (it will autocomplete the rest of `.secret`).
 
 The terminal recognized that you want to open something that starts with `.s` and then fills in the rest.
 
