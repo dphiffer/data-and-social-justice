@@ -41,8 +41,6 @@ Desktop         Downloads       Movies          Pictures
 Documents       Library         Music           Public
 ```
 
-![Terminal.app with ls output](img/01/01-1.jpg)
-
 ## Moving around
 
 * Type `cd Desktop` to move to the Desktop.
