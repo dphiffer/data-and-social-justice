@@ -4,7 +4,7 @@ By [Dan Phiffer](https://phiffer.org/)
 
 ## Preamble
 
-This tutorial assumes you are using macOS. If you are _not_ using macOS, you may need to adjust some of the details. Linux behaves very similarly to macOS, but Windows less so. If you are already comfortable using the command line, you may want to check out the __Further reading__ section at the end of this tutorial.
+This tutorial assumes you are using macOS. If you are _not_ using macOS, you may need to adjust some of the details. Linux behaves very similarly to macOS, but Windows less so. If you are already comfortable using the command line, you may want to check out the [Further reading](#further-reading) section at the end of this tutorial.
 
 ## Hello, Terminal
 
@@ -23,7 +23,7 @@ $ pwd
 /Users/danphiffer
 ```
 
-Instead of _danphiffer_ you should see your own username.
+(Instead of _danphiffer_ you should see your own username.)
 
 The `$` sign is a common notation for the _prompt_, an invitation to type in a command. The prompt may not always look like a `$`, but that's the symbol that gets used in lots of documentation as the default prompt.
 
