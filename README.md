@@ -1,7 +1,7 @@
 # Data + Social Justice
 
 Bennington College, Fall 2018  
-Instructor: [Dan Phiffer](https://phiffer.org/)  
+Instructor: [Dan Phiffer](mailto:danphiffer@bennington.edu)  
 Time: Monday/Wednesday 6:30-8:20  
 Course Number: DA 2135.01, 4 credits
 
@@ -42,6 +42,10 @@ I can be reached via email at all times, but I am very slow to respond to emails
 
 All readings are either available from public websites or (if not) will be shared with students digitally. You may want to purchase a paper copy of [*Notes Toward a Performative Theory of Assembly*](http://www.hup.harvard.edu/catalog.php?isbn=9780674983984) for weeks 3-5 readings.
 
+## USB thumb drive
+
+Please bring a USB thumb drive with you to each class. I will provide thumb drives for purchase for those who need one.
+
 _This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%20of%20Data) and [Daniel Shiffman's Open Source Studio](https://github.com/shiffman/Open-Source-Studio-ITP)_
 
 ## Week 1
@@ -63,11 +67,11 @@ __Assignment__: _Write about a social justice issue you feel could benefit from 
 __Monday 2018-09-10__
 
 * Discussion
-* Tutorial: Atom + git + GitHub
+* Tutorial: ssh + scp + rsync
 
 __Wednesday 2018-09-12__
 
-* Tutorial: HTML + CSS + JavaScript
+* Tutorial: Atom + git + GitHub
 * Video: [The Gap](https://vimeo.com/85040589) by Ira Glass
 
 __Readings__
@@ -82,11 +86,11 @@ __Assignment__: _Design a propaganda website_
 __Monday 2018-09-17__
 
 * Discussion
-* Tutorial: Web forms + AJAX
+* Tutorial: HTML + CSS + JavaScript
 
 __Wednesday 2018-09-19__
 
-* Tutorial: Mobile web
+* Tutorial: Web forms + AJAX
 * Video: [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
 
 __Readings__
@@ -100,11 +104,11 @@ __Assignment__: _Create an online petition and solicit signatures_
 __Monday 2018-09-24__
 
 * Discussion
-* Tutorial: images + audio + videos
+* Tutorial: Mobile web
 
 __Wednesday 2018-09-26__
 
-* Tutorial: screencaps + GIFs
+* Tutorial: images + audio + videos
 * Video: [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by Hito Steyerl
 
 __Readings__
@@ -120,12 +124,12 @@ __Event__: [Forward Union](http://www.forwardunion.org/) Saturday + Sunday
 __Monday 2018-10-01__
 
 * Discussion
-* Tutorial: JSON + CSV + Zip
+* Tutorial: screencaps + GIFs
 
 __Wednesday 2018-10-03__
 
-* Tutorial: Document Object Model
-* Video: [Kyle Whyte](https://www.youtube.com/watch?v=ZM_FpwcRxU0)
+* Tutorial: JSON + CSV + Zip
+
 
 __Readings__
 
@@ -138,11 +142,12 @@ __Assignment__: _Propose a midterm project_
 __Monday 2018-10-08__
 
 * Discussion
-* Tutorial: Leaflet
+* Tutorial: Document Object Model
 
 __Wednesday 2018-10-10__
 
-* Tutorial: Census/TIGER
+* Tutorial: Leaflet
+* Video: [Climate Change, Traditional Knowledge, and Environmental Justice](https://www.youtube.com/watch?v=ZM_FpwcRxU0) by Kyle Whyte
 
 __Readings__
 
