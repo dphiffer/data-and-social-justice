@@ -163,6 +163,9 @@ You can view the contents of your file with the `cat` command. 😸
 * `head mobydick.txt` can be used to get the beginning part of a file.
 * `tail donquixote.txt` shows the end of a file. `tail -f output.log` will continuously show the end of a log file as it gets written to.
 * `more frankenstein.txt` will let you browse through the contents of a long file in small increments.
+	- Press the __enter__ key to move down or use the __up/down arrow__ keys.
+	- Press the __spacebsar__ to page down.
+	- Press the __Q__ key to quit.
 * `grep morlock timemachine.txt` will show all the lines in `timemachine.txt` that contain the word `morlock`.
 
 ![Reading the file pg2.txt](img/01/01-2.gif)
