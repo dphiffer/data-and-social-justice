@@ -70,6 +70,8 @@ $ mkdir -p dsj/01
 
 The command `mkdir` is like what it sounds like, it _makes_ a _directory_. The `-p` argument is an option to create any intermediate subdirectories as necessary, so both `dsj` and `01` get created.
 
+![dsj/01 folder](img/01/01-1.jpg)
+
 ## Paths can be tricky
 
 The paths we use for files can be kind of tricky, and there are lots of shortcuts you can use to refer to files located in different places.
@@ -124,7 +126,7 @@ You should see an empty folder (`.secret` is hidden because its name starts with
 
 * Now type `open .secret` to open up the hidden folder.
 
-![Finder with .secret folder](img/01/01-1.jpg)
+![Finder with .secret folder](img/01/01-2.jpg)
 
 Hidden folders are not really all that private so you shouldn't count on them to hide anything important. But you may discover interesting configuration _dot files_ in your home directory you didn't know were there.
 
@@ -173,7 +175,7 @@ You can view the contents of your file with the `cat` command. 😸
 	- Press the __Q__ key to quit.
 * `grep morlock timemachine.txt` will show all the lines in `timemachine.txt` that contain the word `morlock`.
 
-![Reading the file pg2.txt](img/01/01-2.gif)
+![Reading the file pg2.txt](img/01/01-3.gif)
 
 ## Update the file
 
