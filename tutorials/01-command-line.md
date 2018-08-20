@@ -124,7 +124,7 @@ You should see an empty folder (`.secret` is hidden because its name starts with
 
 * Now type `open .secret` to open up the hidden folder.
 
-![Finder with .secret folder](img/01/01-2.jpg)
+![Finder with .secret folder](img/01/01-1.jpg)
 
 Hidden folders are not really all that private so you shouldn't count on them to hide anything important. But you may discover interesting configuration _dot files_ in your home directory you didn't know were there.
 
@@ -158,11 +158,14 @@ You can view the contents of your file with the `cat` command. 😸
 
 * Type `cat test.txt` to see the contents of the file.
 
-If you want to read the contents of a very long file, you can check just the beginning or just the end of the file.
+"Ok," you might be asking, "but what if you want to read the contents of a _very long file?_". You can check just the beginning or just the end of the file, or you can search for matches in the middle.
 
-* `head` can be used to get the beginning part of a file.
-* `tail` shows the end of a file. `tail -f [file]` is useful for continuously showing the end of a log file.
-* `more` will let you browse through the contents of a long file in small increments.
+* `head mobydick.txt` can be used to get the beginning part of a file.
+* `tail donquixote.txt` shows the end of a file. `tail -f output.log` will continuously show the end of a log file as it gets written to.
+* `more frankenstein.txt` will let you browse through the contents of a long file in small increments.
+* `grep morlock timemachine.txt` will show all the lines in `timemachine.txt` that contain the word `morlock`.
+
+![Reading the file pg2.txt](img/01/01-2.gif)
 
 ## Update the file
 
