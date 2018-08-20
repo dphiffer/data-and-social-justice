@@ -33,13 +33,13 @@ The `pwd` command responds with your "working directory," which is _where_ your 
 
 * Type `ls`.
 
+The `ls` command _lists_ the files and folders in the current working directory.
+
 ```
 $ ls
 Desktop         Downloads       Movies          Pictures
 Documents       Library         Music           Public
 ```
-
-The `ls` command _lists_ the files and folders in the current working directory.
 
 ![Terminal.app with ls output](img/01/01-1.jpg)
 
@@ -184,5 +184,5 @@ To delete the file: `rm test.txt`.
 ## Further reading
 
 * [UNIX text processing tools](http://rwet.decontextualize.com/book/unix/) by Allison Parrish
-* [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
+* [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet) by Onno Schwanen
 * [In the Beginning... Was the Command Line](http://web.archive.org/web/20180218045352/http://www.cryptonomicon.com/beginning.html) by Neal Stephenson
