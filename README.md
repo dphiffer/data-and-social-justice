@@ -53,7 +53,7 @@ _This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%
 __Wednesday 2018-09-05__
 
 * Introductions
-* Tutorial: command line
+* Tutorial: [command line](tutorials/01-command-line.md)
 
 __Readings__
 
