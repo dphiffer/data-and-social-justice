@@ -128,6 +128,11 @@ You should see an empty folder (`.secret` is hidden because its name starts with
 
 Hidden folders are not really all that private so you shouldn't count on them to hide anything important. But you may discover interesting configuration _dot files_ in your home directory you didn't know were there.
 
+You can work with the macOS clipboard using `pbcopy` and `pbpaste`.
+
+* Type `pbcopy < file.txt` to copy the contents of `file.txt` to your clipboard.
+* Type `pbpaste > file.txt` to copy the current clipboard contents into `file.txt`.
+
 ## Shortcuts
 
 There are keyboard shortcuts that can save you lots of time when you're working in the terminal.
