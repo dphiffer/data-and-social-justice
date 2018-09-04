@@ -1,7 +1,7 @@
-# Data + Social Justice
+# Data & Social Justice
 
 Bennington College, Fall 2018  
-Instructor: [Dan Phiffer](mailto:danphiffer@bennington.edu)  
+[Dan Phiffer](https://phiffer.org/) [danphiffer@bennington.edu](mailto:danphiffer@bennington.edu)  
 Time: Monday/Wednesday 6:30-8:20  
 Course Number: DA 2135.01, 4 credits
 
@@ -24,31 +24,34 @@ All students are allowed a maximum of two absences. It is worth stressing that b
 
 Final evaluation will be based on the completion of all assignments, blog posts, class participation, quality of work, and attendance.
 
-For homework assignments, it is more important that you put forth effort and attempts to understand and experiment with the material than it is for you to create a 100% successful project (particularly for first-time coders). Everyone gets one free pass for turning in an assignment late, but only one.
+For homework assignments, it is more important that you put forth effort and attempts to understand and experiment with the material than it is for you to create a 100% successful project (particularly for first-time coders). Everyone gets one free pass for turning in an assignment late, but *only one*.
 
-For the midterm and final projects, I am more interested in what you choose to do than in what you can do. We will elaborate on these distinctions in class.
+For the midterm and final projects, I am more interested in what you choose to do than in what you *can do*. We will elaborate on these distinctions in class.
 
 ## Format
 
-The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. The first half of the course is concerned with the world wide web, while the second half of the course is more about using data.
+The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. The first half of the course is concerned with the world wide web, and the second half of the course focuses on working with data.
 
-There is a consistent pattern to the course schedule: first we discuss readings and any work assigned, then we'll do a technical tutorial, followed by a video or case study. I will screen-record the technical sections of class so that you can refer to them outside of class.
+There is a consistent pattern to the course schedule: first we discuss readings and assignments, then we'll do a technical tutorial, followed by a video or case study. I will screen-record the technical sections of class so that you can refer to them outside of class.
 
-Though we will meet in a lab that has computers, some of you will need to bring your laptop with you to class, as we have more students enrolled than workstations.
+Though we will meet in a lab that has computers, some of you will need to bring your laptop with you to class, as we have more students enrolled than we do workstations.
 
 I can be reached via email at all times, but I am very slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner.
 
-## Readings
+## Materials
 
-All readings are either available from public websites or (if not) will be shared with students digitally. You may want to purchase a paper copy of [*Notes Toward a Performative Theory of Assembly*](http://www.hup.harvard.edu/catalog.php?isbn=9780674983984) for weeks 3-5 readings.
+All readings are either available from public websites or (if not) will be shared with students digitally. Please bring a USB thumb drive with you to each class. I will provide thumb drives for purchase for those of you who need one.
 
-## USB thumb drive
+## Acknowledgments
 
-Please bring a USB thumb drive with you to each class. I will provide thumb drives for purchase for those who need one.
+This syllabus borrows from a variety of other syllabi and the generous suggestions of friends and comrades.
 
-_This syllabus borrows from [Mimi Onuoha's A Philosophy of Data](A%20Philosophy%20of%20Data) and [Daniel Shiffman's Open Source Studio](https://github.com/shiffman/Open-Source-Studio-ITP)_
+* [Mimi Onuoha](https://twitter.com/thistimeitsmimi)'s [A Philosophy of Data](https://github.com/MimiOnuoha/Philosophy-of-Data)
+* [Daniel Shiffman](https://twitter.com/shiffman)'s [Open Source Studio](https://github.com/shiffman/Open-Source-Studio-ITP)
+* [Morehshin Allahyari](https://twitter.com/morehshin)'s and [The Radical Outside](https://github.com/morehshin/TheRadicalOutside_Spring2018)
+* Thanks to [Jessamyn West](https://twitter.com/jessamyn), [Roberto Greco](https://twitter.com/rogre), and [Michal Migurski](https://twitter.com/michalmigurski) for their suggestions.
 
-## Week 1
+## Week 1: when are we?
 
 __Wednesday 2018-09-05__
 
@@ -57,12 +60,12 @@ __Wednesday 2018-09-05__
 
 __Readings__
 
-* [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by Sarah Kendzior
-* [Hannah Arendt listicle](https://splinternews.com/how-a-dead-wwii-era-philosopher-understands-donald-trum-1793863264) by Ingrid Burrington
+* [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by [Sarah Kendzior](https://twitter.com/sarahkendzior)
+* [Black Quantum Futurism](https://www.youtube.com/watch?v=Fd1LHsnlVC8&feature=youtu.be&t=43m3s) by [Rasheedah Phillips](https://twitter.com/RPhillipsEsq)
 
-__Assignment__: _Write about a social justice issue you feel could benefit from your activism_
+__Assignment__: _Follow Sarah Kendzior's advice: write about the present condition. Write on paper, in long hand, and wait until after you’ve watched the Rasheedah Phillips video. Due in class on Monday._
 
-## Week 2
+## Week 2: what is data?
 
 __Monday 2018-09-10__
 
@@ -72,34 +75,35 @@ __Monday 2018-09-10__
 __Wednesday 2018-09-12__
 
 * Tutorial: Atom + git + GitHub
-* Video: [The Gap](https://vimeo.com/85040589) by Ira Glass
+* Case study: [ACLU Voter](https://www.aclu.org/voter)
 
 __Readings__
 
-* [Worms, Butterflies and Dandelions](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
-* [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by W Patrick McCray
+* [Capta and Data](https://blogs.ischool.utexas.edu/f2011dh/2011/10/31/capta-and-data-visualization-the-humanistic-method-and-representing-knowledge/) by [Bethany Anderson](https://twitter.com/bga_archivist)
+* [How We Became Machine Readable](https://vimeo.com/233011125) by [Mimi Onuoha](https://twitter.com/thistimeitsmimi)
 
-__Assignment__: _Design a propaganda website_
+__Assignment__: _Write about a specific issue you would like to politically engage with, that you feel would benefit from your activism. What is an approach you could use to enact that change? Aim for 500 words._
 
-## Week 3
+## Week 3: what is software?
 
 __Monday 2018-09-17__
 
 * Discussion
-* Tutorial: HTML + CSS + JavaScript
+* Tutorial: HTML + CSS
 
 __Wednesday 2018-09-19__
 
-* Tutorial: Web forms + AJAX
-* Video: [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
+* Tutorial: Web forms
+* Video: [The Gap](https://vimeo.com/85040589) by [Ira Glass](https://twitter.com/iraglass)
 
 __Readings__
 
-* Butler, Judith. "Gender Politics and the Right to Appear." *Notes Toward a Performative Theory of Assembly*
+* [Worms, Butterflies and Dandelions](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by [Taeyoon Choi](https://twitter.com/tchoi8)
+* [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by [W. Patrick McCray](https://twitter.com/LeapingRobot)
 
-__Assignment__: _Create an online petition and solicit signatures_
+__Assignment__: _Analyze one episode of the [Brian Lehrer show on WNYC](https://www.wnyc.org/shows/bl). Listen to the live broadcast, weekdays at 10am-noon. Pay attention to audience participation, what are their questions, how well do you think they engage with the subjects being discussed? Call in with a question or comment, if you feel inclined to._
 
-## Week 4
+## Week 4: political affordances
 
 __Monday 2018-09-24__
 
@@ -108,51 +112,52 @@ __Monday 2018-09-24__
 
 __Wednesday 2018-09-26__
 
-* Tutorial: images + audio + videos
-* Video: [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by Hito Steyerl
+* Tutorial: JavaScript
+* Guest speaker: tbd
 
 __Readings__
 
-* Butler, Judith. "Bodies in Alliance and the Politics of the Street." *Notes Toward a Performative Theory of Assembly*
+* [Bodies in Alliance and the Politics of the Street](http://eipcp.net/transversal/1011/butler/en) by [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
+* [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
 
-__Assignment__: _Social justice organization research project_
+__Assignment__: _Create an online petition that includes a written call to action and a web form soliciting individual signatures._
 
 __Event__: [Forward Union](http://www.forwardunion.org/) Saturday + Sunday
 
-## Week 5
+## Week 5: seeing and hearing
 
 __Monday 2018-10-01__
 
 * Discussion
-* Tutorial: screencaps + GIFs
+* Tutorial: images, screencaps, and GIFs
 
 __Wednesday 2018-10-03__
 
-* Tutorial: JSON + CSV + Zip
-
+* Tutorial: audio and video
+* Case study: [FIREWALL Cafe](https://firewallcafe.com/) by [Joyce Yu-Jean Lee](https://firewallcafe.com/), et al.
 
 __Readings__
 
-* Butler, Judith. "Toward an Ethics of Co-Habitation." *Notes Toward a Performative Theory of Assembly*
+* [Not all information wants to be free](http://tararobertson.ca/2016/lita-keynote/) by [Tara Robertson](https://twitter.com/tararobertson)
+* [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by [Hito Steyerl](https://en.wikipedia.org/wiki/Hito_Steyerl)
 
-__Assignment__: _Propose a midterm project_
+__Assignment__: _Organize an outreach campaign using the contact list from your online petition. Your intention is to encourage participants to share something with their friends, and to grow your list._
 
 ## Week 6
 
 __Monday 2018-10-08__
 
 * Discussion
-* Tutorial: Document Object Model
+* Guest speaker: tbd
 
 __Wednesday 2018-10-10__
 
-* Tutorial: Leaflet
-* Video: [Climate Change, Traditional Knowledge, and Environmental Justice](https://www.youtube.com/watch?v=ZM_FpwcRxU0) by Kyle Whyte
+* Tutorial: Metadata
+* Midterm workshop
 
 __Readings__
 
-* [Disappearing Ice and Missing Data](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Lisa E. Bloom and Elena Glasberg
-* [The Big Data of Ice, Rocks, Soils, and Sediments](http://median.newmediacaucus.org/summer-2010-v-06-n-01-caa-conference-edition-2010-disappearing-ice-and-missing-data-climate-change-in-the-visual-culture-of-the-polar-regions/) by Shannon Mattern
+* [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by [Wendy Hui Kyong Chun](https://twitter.com/whkchun)
 
 __Assignment__: _Work on your midterm project_
 
@@ -186,7 +191,6 @@ __Wednesday 2018-10-24__
 
 __Readings__
 
-* [Capta and Data](https://blogs.ischool.utexas.edu/f2011dh/2011/10/31/capta-and-data-visualization-the-humanistic-method-and-representing-knowledge/) by Bethany Anderson
 * [Do Not Track Episode 1](https://episode1.donottrack-doc.com/en/)
 
 __Assignment__: tbd
@@ -206,7 +210,6 @@ __Wednesday 2018-10-31__
 __Readings__
 
 * Weapons of Math Destruction, Chapter 5: Civilian Casualties by Cathy O'Neil
-* [Mimi Onuoha at Eyeo](https://vimeo.com/233011125)
 
 __Assignment__: tbd
 
@@ -225,8 +228,8 @@ __Wednesday 2018-11-07__
 
 __Readings__
 
-* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by Brooke Gladstone
-* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by Simone Browne, Heather Dewey-Hagborg and Joerg Blumtritt
+* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by [Brooke Gladstone](https://twitter.com/OTMBrooke)
+* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by [Simone Browne](https://en.wikipedia.org/wiki/Simone_Browne), [Heather Dewey-Hagborg](https://twitter.com/hdeweyh) and [Joerg Blumtritt](https://mastodon.social/@jbenno)
 
 ## Week 11
 
@@ -242,11 +245,11 @@ __Wednesday 2018-11-14__
 
 __Readings__
 
-* [Hatebook: Inside Facebook’s Myanmar operation](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/) by Steve Stecklow
+
 
 __Assignment__: _Create a web-based work based on your social media archives_
 
-## Week 12
+## Week 12: social media
 
 __Monday 2018-11-19__
 
