@@ -154,11 +154,11 @@ __Assignment__: _Create a persuasive audio/visual artifact and use it to organiz
 __Monday 2018-10-08__
 
 * Discussion
-* Tutorial: Domain Name System
+* Guest speaker: Gina Kim
 
 __Wednesday 2018-10-10__
 
-* Tutorial: SSL/TLS
+* Tutorial: DNS + SSL/TLS
 * Midterm workshop
 
 __Readings__
