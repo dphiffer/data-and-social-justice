@@ -12,7 +12,7 @@ Digital technologies have fundamentally shifted how social justice movements ope
 
 ## Objectives
 
-This class is a about digital organizing and looking at how politics and society is being reformed by Big Data and algorithmic automation. You will learn how to make websites, how to work with data, how to organize a small political campaign, and how to think about problems related to our technological society. Along the way we will consider how digital art practices inform these practices.
+This class is a about digital organizing and looking at how activism, politics, and society are being reformed by technology. You will learn how to make websites, how to work with data, how to organize a political campaign, and how to think about problems related to our technological society. Along the way we will consider how digital art practices inform these topics.
 
 ## Expectations and Requirements
 
