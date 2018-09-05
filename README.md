@@ -1,13 +1,18 @@
 # Data & Social Justice
 
 Bennington College, Fall 2018  
-[Dan Phiffer](https://phiffer.org/) [danphiffer@bennington.edu](mailto:danphiffer@bennington.edu)  
-Time: Monday/Wednesday 6:30-8:20  
-Course Number: DA 2135.01, 4 credits
+Course Number: DA 2135.01, 4 credits  
+[Dan Phiffer](https://phiffer.org/), `[danphiffer@bennington.edu](mailto:danphiffer@bennington.edu)`  
+Time: Monday/Wednesday 6:30-8:20pm  
+Office Hours: Mondays 5:30-6:30pm
 
 ## Course Description
 
 Digital technologies have fundamentally shifted how social justice movements operate. “Organizing without organizations” and “laptop activism” are no longer novel or fringe activities. The social media tools we rely on to gather in public can also be antagonistic toward individual participants. This course explores the digital tools and data archives that inform modern political engagement. We will discuss existing precedents, prototype new software tools, and study our own social media archives to identify risks and possibilities.
+
+## Objectives
+
+This class is a about digital organizing and looking at how politics and society is being reformed by Big Data and algorithmic automation. You will learn how to make websites, how to work with data, how to organize a small political campaign, and how to think about problems related to our technological society. Along the way we will consider how digital art practices inform these practices.
 
 ## Expectations and Requirements
 
@@ -30,7 +35,7 @@ For the midterm and final projects, I am more interested in what you choose to d
 
 ## Format
 
-The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. The first half of the course is concerned with the world wide web, and the second half of the course focuses on working with data.
+The course will cover a number of different themes that intersect with issues of technology, data, political engagement, and social justice. The first half of the course is concerned with the world wide web, and the second half of the course focuses on working with data and mapping.
 
 There is a consistent pattern to the course schedule: first we discuss readings and assignments, then we'll do a technical tutorial, followed by a video or case study. I will screen-record the technical sections of class so that you can refer to them outside of class.
 
@@ -44,7 +49,7 @@ All readings are either available from public websites or (if not) will be share
 
 ## Acknowledgments
 
-This syllabus borrows from a variety of other syllabi and the generous suggestions of friends and comrades.
+This syllabus borrows from other syllabi and has benefited from the generous suggestions of friends and comrades.
 
 * [Mimi Onuoha](https://twitter.com/thistimeitsmimi)'s [A Philosophy of Data](https://github.com/MimiOnuoha/Philosophy-of-Data)
 * [Daniel Shiffman](https://twitter.com/shiffman)'s [Open Source Studio](https://github.com/shiffman/Open-Source-Studio-ITP)
@@ -63,7 +68,7 @@ __Readings__
 * [We’re heading into dark times](https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6) by [Sarah Kendzior](https://twitter.com/sarahkendzior)
 * [Black Quantum Futurism](https://www.youtube.com/watch?v=Fd1LHsnlVC8&feature=youtu.be&t=43m3s) by [Rasheedah Phillips](https://twitter.com/RPhillipsEsq)
 
-__Assignment__: _Follow Sarah Kendzior's advice: write about the present condition. Write on paper, in long hand, and wait until after you’ve watched the Rasheedah Phillips video. Due in class on Monday._
+__Assignment__: _Follow Sarah Kendzior's advice: write about the present condition. Write on paper, in long hand, but wait until after you’ve watched the Rasheedah Phillips video. Due in class on Monday._
 
 ## Week 2: what is data?
 
@@ -71,6 +76,7 @@ __Monday 2018-09-10__
 
 * Discussion
 * Tutorial: ssh + scp + rsync
+* Introduction to WordPress
 
 __Wednesday 2018-09-12__
 
@@ -120,9 +126,9 @@ __Readings__
 * [Bodies in Alliance and the Politics of the Street](http://eipcp.net/transversal/1011/butler/en) by [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
 * [Naomi Klein at Harvard](https://www.youtube.com/watch?v=162-UDZ-OCA)
 
-__Assignment__: _Create an online petition that includes a written call to action and a web form soliciting individual signatures._
+__Assignment__: _Create an online petition that includes a written call to action and a web form soliciting individual signatures. Appeal to your fellow advocates with the promise of moving the needle on your issue. What injustice can you improve together?_
 
-__Event__: [Forward Union](http://www.forwardunion.org/) Saturday + Sunday
+__Event__: [Forward Union](http://www.forwardunion.org/) in NYC Saturday + Sunday
 
 ## Week 5: seeing and hearing
 
@@ -141,27 +147,27 @@ __Readings__
 * [Not all information wants to be free](http://tararobertson.ca/2016/lita-keynote/) by [Tara Robertson](https://twitter.com/tararobertson)
 * [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by [Hito Steyerl](https://en.wikipedia.org/wiki/Hito_Steyerl)
 
-__Assignment__: _Organize an outreach campaign using the contact list from your online petition. Your intention is to encourage participants to share something with their friends, and to grow your list._
+__Assignment__: _Create a persuasive audio/visual artifact and use it to organize an outreach campaign using the contact list from your online petition. Encourage participants to share something with their friends, and to grow your list._
 
-## Week 6
+## Week 6: the open internet
 
 __Monday 2018-10-08__
 
 * Discussion
-* Guest speaker: tbd
+* Tutorial: Domain Name System
 
 __Wednesday 2018-10-10__
 
-* Tutorial: Metadata
+* Tutorial: SSL/TLS
 * Midterm workshop
 
 __Readings__
 
 * [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by [Wendy Hui Kyong Chun](https://twitter.com/whkchun)
 
-__Assignment__: _Work on your midterm project_
+__Assignment__: _Work on your midterm project._
 
-## Week 7
+## Week 7: midterms
 
 __Monday 2018-10-15__
 
@@ -175,10 +181,9 @@ __Wednesday 2018-10-17__
 
 __Readings__
 
-* _Popular technology_ by Virginia Eubanks
-* [The Not-So-Hidden Politics of Class Online](http://www.danah.org/papers/talks/PDF2009.html) by danah boyd
+* [The Not-So-Hidden Politics of Class Online](http://www.danah.org/papers/talks/PDF2009.html) by [danah boyd](https://twitter.com/zephoria)
 
-## Week 8
+## Week 8: digital hoarding
 
 __Monday 2018-10-22__
 
@@ -187,38 +192,40 @@ __Monday 2018-10-22__
 __Wednesday 2018-10-24__
 
 * Discussion
-* Case study: ACLU Voter
+* Tutorial: Data scraping
 
 __Readings__
 
+* [Big Brother's Blind Spot](https://thebaffler.com/salvos/big-brothers-blind-spot-mcneil) by [Joanne McNeil](https://twitter.com/jomc)
 * [Do Not Track Episode 1](https://episode1.donottrack-doc.com/en/)
 
-__Assignment__: tbd
+__Assignment__: _Data scraping assignment._
 
-## Week 9
+## Week 9: digital cartography
 
 __Monday 2018-10-29__
 
 * Discussion
-* Tutorial: email
+* Tutorial: QGis + Census TIGER/Line
 
 __Wednesday 2018-10-31__
 
-* Tutorial: Twilio
-* Case study: SMS community engagement
+* Tutorial: Leaflet + GeoJSON
+* Case study: [What the District!?](https://what-the-district.aclu.org/)
 
 __Readings__
 
-* Weapons of Math Destruction, Chapter 5: Civilian Casualties by Cathy O'Neil
+* _Weapons of Math Destruction_, Chapter 5: "Civilian Casualties" by [Cathy O'Neil](https://twitter.com/mathbabedotorg)
+* [Usenix Keynote](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens) by [James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
 
-__Assignment__: tbd
+__Assignment__: _Mapping assignment._
 
-## Week 10
+## Week 10: rows and columns
 
 __Monday 2018-11-05__
 
 * Discussion
-* Tutorial: node.js + express + socket.io
+* Tutorial: CSVs + SQLite
 
 _Election Day Tuesday_
 
@@ -231,7 +238,7 @@ __Readings__
 * [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by [Brooke Gladstone](https://twitter.com/OTMBrooke)
 * [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by [Simone Browne](https://en.wikipedia.org/wiki/Simone_Browne), [Heather Dewey-Hagborg](https://twitter.com/hdeweyh) and [Joerg Blumtritt](https://mastodon.social/@jbenno)
 
-## Week 11
+## Week 11: nobody knows you're a dog
 
 __Monday 2018-11-12__
 
@@ -245,16 +252,17 @@ __Wednesday 2018-11-14__
 
 __Readings__
 
-
+* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by Zeynep Tufekci
+* [The Moderators](https://fieldofvision.org/the-moderators) by [Adrian Chen](https://twitter.com/AdrianChen) and [Ciaran Cassidy](https://twitter.com/CiaranCass)
 
 __Assignment__: _Create a web-based work based on your social media archives_
 
-## Week 12: social media
+## Week 12: where are we?
 
 __Monday 2018-11-19__
 
 * Discussion
-* Video: [The Moderators](https://fieldofvision.org/the-moderators) by Adrian Chen + Ciaran Cassidy
+* Tutorial: levels of detail
 
 __Wednesday 2018-11-21__
 
@@ -262,43 +270,46 @@ __Wednesday 2018-11-21__
 
 __Readings__
 
-* [Twitter is wrong](https://www.theverge.com/2018/8/10/17675232/twitter-alex-jones-jack-dorsey-free-speech) by Laura Hudson
-* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by  Zeynep Tufekci
+* [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) by [Julia Angwin](https://twitter.com/juliaangwin), [Jeff Larson](https://twitter.com/thejefflarson), [Surya Mattu](https://twitter.com/suryamattu) and [Lauren Kirchner](https://twitter.com/lkirchner)
 
-__Assignment__: _Propose a final project_
+__Assignment__: _Propose a final project._
 
-## Week 13
+## Week 13: public data
 
 __Monday 2018-11-26__
 
 * Discussion
-* Tutorial: browser plugins
+* Tutorial: Census TIGER/Line
 
 __Wednesday 2018-11-28__
 
-* Tutorial: Puppeteer
+* Tutorial: @unitedstates
 * Video: [How I won the lottery](https://www.youtube.com/watch?v=l_F9jxsfGCw) by Darius Kazemi
 
 __Readings__
 
+* [From Voicemails to Votes](https://files.opengovfoundation.org/fromvoicemailstovotes.pdf) by [opengov](https://www.opengovfoundation.org/)
 * [Google risks mega-fine in EU over location 'stalking'](https://www.theregister.co.uk/2018/08/16/google_risks_megafine_in_eu_over_location_stalking/)
 
-__Assignment__: _Work on final project_
+__Assignment__: _Work on your final project._
 
-## Week 14
+## Week 14: know your rights
 
 __Monday 2018-12-03__
 
 * Discussion
-* Tutorial: using computers safely
+* Final project workshop
 
 __Wednesday 2018-12-05__
 
 * Guest speaker: tbd
 
-Reading: [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by Robinson Meyer
-Reading: [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/)
-Assignment: _Work on final project_
+__Readings__
+
+* [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by [Robinson Meyer](https://twitter.com/yayitsrob)
+* [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/) by [Lily Hay Newman](https://twitter.com/lilyhnewman)
+
+__Assignment__: _Work on your final project._
 
 ## Week 15
 

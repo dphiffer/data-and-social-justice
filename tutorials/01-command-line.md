@@ -2,15 +2,19 @@
 
 By [Dan Phiffer](https://phiffer.org/)
 
-## Preamble
+This tutorial describes some basic functions of the macOS command line. If you are _not_ using macOS, you may need to adjust some of the details. Linux behaves very similarly to macOS, but Windows less so. If you are already comfortable using the command line, you may want to check out the [Further reading](#further-reading) section at the end of this tutorial.
 
-This tutorial assumes you are using macOS. If you are _not_ using macOS, you may need to adjust some of the details. Linux behaves very similarly to macOS, but Windows less so. If you are already comfortable using the command line, you may want to check out the [Further reading](#further-reading) section at the end of this tutorial.
+## When things go wrong
+
+It's important to remember that errors are inevitable in this process. It's more important that you notice when the computer is telling you something went wrong than _avoiding_ errors altogether. I am often _suspicious_ when something works perfectly the first time. Recognizing what an error message is telling you is a skill you will develop with experience.
+
+If you ever want to stop a command as it's running, use __ctrl-C__ (that's the actual control key, not command).
 
 ## Hello, Terminal
 
 * In the Finder, go to __Applications → Utilities__ and double-click on __Terminal.app__.
 
-_A window will open where you can type things._ Some commands are substitutes for things you can do with a graphical user interface (GUI), but other commands have no equivalent. The command-line is where software development happens. You type a command, press enter, and the computer responds with a result.
+_A window will open where you can type things._ Some commands are substitutes for things you can do with a graphical user interface (GUI), but other commands have no equivalent. __The command-line is where software development happens. You type a command, press enter, and the computer responds with a result.__
 
 ![Applications → Utilities → Terminal.app](img/01/01-0.jpg)
 
@@ -25,7 +29,7 @@ $ pwd
 
 (Instead of _danphiffer_ you should see your own username.)
 
-The `$` sign is a common notation for the _prompt_, an invitation to type in a command. The prompt may not always look like a `$`, but that's the symbol that gets used in lots of documentation as the default prompt.
+The `$` sign is a common notation for the _prompt_, an invitation to type in a command. The prompt may not always look like a `$` (for example, it's common to notate _admin-level_ prompts as `#`), but that's the symbol that gets used in lots of documentation as the default prompt.
 
 The `pwd` command responds with your "working directory," which is _where_ your commands are executed. By default your terminal session starts out in your home directory (in macOS, that's located in Users → _username_).
 
@@ -60,6 +64,38 @@ The `cd` command changes our working directory. When we type `cd Desktop` the `D
 
 The `-l` argument for the `ls` command makes the listing include more details, including file permissions, file size (in bytes) and last modified information.
 
+## Ways of moving
+
+To move into a subfolder:
+
+```
+$ cd folder/subfolder
+```
+
+To move into the parent folder:
+
+```
+$ cd ..
+```
+
+To move back to your last location:
+
+```
+$ cd -
+```
+
+To move to your home directory (no argument):
+
+```
+$ cd
+```
+
+You can also use the `~` symbol as a shortcut for your home directory:
+
+```
+$ cd ~/Desktop
+```
+
 ## Making folders
 
 Let's create a folder that we can use to save our work.
@@ -87,7 +123,7 @@ These are all ways of writing paths to the same folder (relative to the Desktop)
 * `./dsj/01`
 * `../Desktop/dsj/01`
 * `~/Desktop/dsj/01`
-* `/Users/danphiffer/Desktop/dsj/01`
+* `/Users/danphiffer/Desktop/dsj/01` (the absolute path)
 
 ## Sneaky hidden files
 
@@ -114,7 +150,7 @@ $ ls -a
 
 Any file or folder that starts with `.` gets omitted by `ls` (unless you provide `-a`) and gets hidden by default in the Finder (you can configure it to show all files).
 
-Because you only included `-a` instead of `-la` the results were listed in the default summary format.
+Because you typed `-a` instead of `-la` the results were listed in the default summary format.
 
 ## Apple-y things
 
@@ -139,13 +175,13 @@ You can work with the macOS clipboard using `pbcopy` and `pbpaste`.
 
 There are keyboard shortcuts that can save you lots of time when you're working in the terminal.
 
-* Without pressing enter, type: `open .s` and then press the tab key (it will autocomplete the rest of `.secret`).
+* Without pressing enter, type: `open .s` and then press the tab key (it should autocomplete the rest of `.secret`).
 
 The terminal recognized that you want to open something that starts with `.s` and then fills in the rest.
 
-* Press the up arrow key to see the last command you entered.
-* Press the up/down arrow keys repeatedly to look through earlier commands.
+* Press the __up/down arrow__ keys to browse earlier commands.
 * Enter `history` to look through all of the commands you've typed.
+* Use __ctrl-R__ to search previous commands
 
 ## Create a file
 
@@ -165,10 +201,11 @@ You can view the contents of your file with the `cat` command. 😸
 
 * Type `cat test.txt` to see the contents of the file.
 
-"Ok," you might be asking, "but what if you want to read the contents of a _very long file?_". You can check just the beginning or just the end of the file, or you can search for matches in the middle.
+You might be asking, "but what if you want to read the contents of a _very long file?_". You can check just the beginning or just the end of the file, or you can search for matches in the middle.
 
-* `head mobydick.txt` can be used to get the beginning part of a file.
-* `tail donquixote.txt` shows the end of a file. `tail -f output.log` will continuously show the end of a log file as it gets written to.
+* `head mobydick.txt` can be used to get the _beginning part_ of a file.
+* `tail donquixote.txt` shows the _end of a file_.
+* `tail -f output.log` will _continuously_ show the end of a log file as it gets written to.
 * `more frankenstein.txt` will let you browse through the contents of a long file in small increments.
 	- Press the __enter__ key to move down or use the __up/down arrow__ keys.
 	- Press the __spacebsar__ to page down.
@@ -183,7 +220,13 @@ You can continue editing the file with `nano test.txt`.
 
 ## Delete the file
 
-To delete the file: `rm test.txt`.
+Remove the file:
+
+* `rm test.txt` to delete your test file.
+
+To delete a folder and all of its contents you need to provide `-rf` arguments:
+
+* `rm -rf folder`
 
 ## If you get stuck
 
