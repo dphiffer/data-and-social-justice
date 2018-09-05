@@ -2,7 +2,7 @@
 
 Bennington College, Fall 2018  
 Course Number: DA 2135.01, 4 credits  
-[Dan Phiffer](https://phiffer.org/), `[danphiffer@bennington.edu](mailto:danphiffer@bennington.edu)`  
+[Dan Phiffer](https://phiffer.org/), [`danphiffer@bennington.edu`](mailto:danphiffer@bennington.edu)  
 Time: Monday/Wednesday 6:30-8:20pm  
 Office Hours: Mondays 5:30-6:30pm
 
@@ -252,7 +252,7 @@ __Wednesday 2018-11-14__
 
 __Readings__
 
-* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by Zeynep Tufekci
+* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by [Zeynep Tufekci](Zeynep Tufekci)
 * [The Moderators](https://fieldofvision.org/the-moderators) by [Adrian Chen](https://twitter.com/AdrianChen) and [Ciaran Cassidy](https://twitter.com/CiaranCass)
 
 __Assignment__: _Create a web-based work based on your social media archives_
