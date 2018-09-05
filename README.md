@@ -183,7 +183,7 @@ __Readings__
 
 * [The Not-So-Hidden Politics of Class Online](http://www.danah.org/papers/talks/PDF2009.html) by [danah boyd](https://twitter.com/zephoria)
 
-## Week 8: digital hoarding
+## Week 8: data hoarding
 
 __Monday 2018-10-22__
 
