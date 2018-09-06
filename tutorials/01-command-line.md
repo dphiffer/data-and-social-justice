@@ -231,7 +231,7 @@ To delete a folder and all of its contents you need to provide `-rf` arguments:
 ## If you get stuck
 
 * You can make a new tab in the terminal by pressing __cmd-T__.
-* Force a running command to cancel by pressing __ctrl-C__.
+* Force a running command to cancel by pressing __ctrl-C__. (In some cases you need to press the __Q__ key to quit.)
 * Suspend a command to the background by pressing __ctrl-Z__ (and then resume it by entering `fg`, bringing it back to the _foreground_).
 * You can always ask for help! Send me email: [danphiffer@bennington.edu](mailto:danphiffer@bennington.edu)
 
