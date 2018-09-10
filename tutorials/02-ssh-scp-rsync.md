@@ -6,7 +6,62 @@ This tutorial offers an introduction to the Swiss army knife of networked comput
 
 We're building on skills from the [command line tutorial](01-command-line.md) and we will be assuming that you have a USB thumb drive to store files onto.
 
-## Format your USB thumb drive
+## Logging into the server
+
+Let's start out by logging into the server using SSH (secure shell). You'll want to replace the `dphiffer` below with your username.
+
+```
+$ ssh dphiffer@organizer.network
+dphiffer@organizer.network's password:
+```
+
+Then, type your password in. You should see something like the following:
+
+```
+Welcome to Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-33-generic x86_64)
+
+  System information as of Mon Sep 10 21:59:53 UTC 2018
+
+  System load:  0.01                Processes:             152
+  Usage of /:   23.0% of 213.17GB   Users logged in:       0
+  Memory usage: 15%                 IP address for enp2s0: 192.168.1.216
+  Swap usage:   0%
+ _        _ _           
+| | _____| | | ___ _ __
+| |/ / _ \ | |/ _ \ '__|
+|   <  __/ | |  __/ |   
+|_|\_\___|_|_|\___|_|   
+
+This server is dedicated to disability rights activist Helen Keller.
+https://en.wikipedia.org/wiki/Helen_Keller
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+0 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Sep 10 21:37:35 2018 from 204.77.151.204
+dphiffer@keller:~$
+```
+
+If that didn't work for you, there are a couple things you can double-check:
+
+1. did you specify the right username?
+2. are you sure you got the password right?
+
+For now, go ahead and logout from your SSH session once you know it's working.
+
+```
+$ exit
+logout
+Connection to organizer.network closed.
+```
+
+Next we will set up __public keys__ to use with the server. Public keys are kind of like passwords, but they're encoded into a file instead of being something you remember.
+
+## Formatting your USB thumb drive
 
 If you have a portable hard drive you want to use instead of a USB thumb drive, feel free to skip this section. Before you do, be sure to rename the drive `USB`. This is important for making sure all the configuration paths will work.
 
@@ -76,62 +131,84 @@ The output will also include some extra information about your key's fingerprint
 * Your _private key_ that you should __never share__, is the file `organizer.network`
 * Your _public key_ that is __okay to share__ is the file `oragnizer.network.pub`
 
-## Email your public key
+## Transfer your public key
 
-In order for you to get access to the server we're using in the course, you'll need to email your public key to me.
-
-Here's how you can copy the public key to your clipboard:
+In order for you to get access to the server we're using in the course, you'll need to upload the _public_ key to the server. We will use `scp` (secure copy) to upload the file.
 
 ```
-$ pbcopy < organizer.network.pub
+$ scp organizer.network.pub organizer.network:~/authorized_keys
+dphiffer@organizer.network's password:
+organizer.network.pub                        100%  400    11.7KB/s   00:00
 ```
 
-Next, paste the clipboard contents into an email to [danphiffer@bennington.edu](mailto:danphiffer@bennington.edu). This will allow me to set you up with an account on the server.
+This will upload a file to the server in your `~` directory and, in the process, rename the file to be `authorized_keys`. It's not super important that you understand all the parts of the command at this point. The main thing is that you see that `100%` part in the response.
 
-## Intermission
+## Back to SSH
 
-At this point you cannot proceed until you hear back from me. Maybe go outside and take a walk. You can continue to the next section once you receive a reply to your email with some file attachments.
+For this next configuration we'll need to log back into the server.
 
-## Configuring SSH
+```
+$ ssh dphiffer@organizer.network
+```
 
-You should have received an email from me with a file attachment called `config` and another one called `organizer.network.config`.
-
-* Save each file attachment to your USB thumb drive into the `ssh` folder.
-
-Next we are going to work with another folder with a similar name.
-
-Open Terminal.app and then:
+After you enter your password, create a new hidden `.ssh` folder:
 
 ```
 $ mkdir -p ~/.ssh
 ```
 
-That will make a new hidden `.ssh` folder in your home directory if one does not exist already.
-
-Next we will open the hidden folder and look inside.
+Next, make sure you see the `authorized_keys` file that you uploaded before.
 
 ```
-$ open ~/.ssh
+$ ls
+authorized_keys
 ```
 
-![Empty .ssh folder](img/02/02-1.png)
-
-Check to see if you have an existing `config` file. If so, it's likely that somebody else has already configured this computer to use SSH. If you see an existing `config` file you can skip to the next section.
-
-In Terminal, copy the `config` file from your USB drive to the hidden `.ssh` folder.
+Now we can move the file into the `.ssh` folder.
 
 ```
-$ cp /Volumes/USB/ssh/config ~/.ssh/config
+$ mv authorized_keys .ssh/
 ```
 
-You should see a file appear in the hidden `.ssh` folder in the Finder.
+## Test out the public keys
 
-![.ssh folder with config file](img/02/02-2.png)
-
-## Try logging in
-
-Now after all of that setup, we should be able to login to the server.
+Now we can try logging in again using the key pair (again, with `dphiffer` replaced with your username).
 
 ```
-$ ssh organizer.network
+$ ssh -i organizer.network dphiffer@organizer.network
+```
+
+If everything is working, you should get logged in without having to type your password.
+
+The `-i organizer.network` part instructs `ssh` to use the private key (and associated `.pub` file) to login instead of using your password.
+
+## SSH configuration
+
+We can make the login process even easier, since that involves a whole lot of typing. Let's add some configuration settings for the server, which we'll nickname `keller`. These configurations will be stored on the thumb drive with our key pair.
+
+```
+$ nano /Volumes/USB/ssh/keller.config
+```
+
+And then add the following:
+
+```
+Host keller
+	Hostname organizer.network
+	Username dphiffer
+	IdentityFile /Volumes/USB/ssh/organizer.network
+```
+
+Then, to save and quit out of `nano` type __ctrl-O__ to output and then __ctrl-X__ to exit.
+
+Finally, we will add one more configuration that lives on the computer itself.
+
+```
+$ nano ~/.ssh/config
+```
+
+And we will add the following line, to include the other configuration that's on your your USB thumb drive.
+
+```
+Include /Volumes/USB/ssh/keller.config
 ```
