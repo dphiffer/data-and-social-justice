@@ -80,7 +80,7 @@ __Monday 2018-09-10__
 
 __Wednesday 2018-09-12__
 
-* Tutorial: [ssh + scp](tutorials/02-ssh-scp.md)
+* Tutorial: [ssh + scp](tutorials/02-ssh-scp.md) (take 2)
 * Introduction to WordPress (take 2)
 * Case study: [ACLU Voter](https://www.aclu.org/voter)
 
