@@ -1,8 +1,8 @@
 # Data & Social Justice
 
+[Dan Phiffer](https://phiffer.org/), [`danphiffer@bennington.edu`](mailto:danphiffer@bennington.edu)  
 Bennington College, Fall 2018  
 Course Number: DA 2135.01, 4 credits  
-[Dan Phiffer](https://phiffer.org/), [`danphiffer@bennington.edu`](mailto:danphiffer@bennington.edu)  
 Time: Monday/Wednesday 6:30-8:20pm  
 Office Hours: Mondays 5:30-6:30pm
 
@@ -75,12 +75,13 @@ __Assignment__: _Follow Sarah Kendzior's advice: write about the present conditi
 __Monday 2018-09-10__
 
 * Discussion
-* Tutorial: ssh + scp + rsync
-* Introduction to WordPress
+* Tutorial: ssh + scp (take 1)
+* Introduction to WordPress (take 1)
 
 __Wednesday 2018-09-12__
 
-* Tutorial: Atom + git + GitHub
+* Tutorial: [ssh + scp](tutorials/02-ssh-scp.md)
+* Introduction to WordPress (take 2)
 * Case study: [ACLU Voter](https://www.aclu.org/voter)
 
 __Readings__
