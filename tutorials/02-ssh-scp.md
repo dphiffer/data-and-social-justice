@@ -2,7 +2,7 @@
 
 By [Dan Phiffer](https://phiffer.org/)
 
-This tutorial offers an introduction to the Swiss army knife of networked computing: `ssh`. We'll start by logging into a remote server, then set up `git` for managing our files, then use `scp` to transfer files. Finally we will generate a public/private key pair that we can use to login to the server more easily and securely.
+This tutorial offers an introduction to the Swiss army knife of networked computing: `ssh`. We'll start by logging into a remote server, then use `scp` to transfer files. Finally we will generate a public/private key pair that we can use to login to the server more easily and securely.
 
 We're building on skills from the [command line tutorial](01-command-line.md) and we will be assuming that you have a USB thumb drive to store files onto.
 
