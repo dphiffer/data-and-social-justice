@@ -4,7 +4,7 @@
 Bennington College, Fall 2018  
 Course Number: DA 2135.01, 4 credits  
 Time: Monday/Wednesday 6:30-8:20pm  
-Office Hours: Mondays 5:30-6:30pm
+Office Hours: Wednesday 5:30-6:30pm
 
 ## Course Description
 
@@ -96,7 +96,7 @@ __Assignment__: _Write about a specific issue you would like to politically enga
 __Monday 2018-09-17__
 
 * Discussion
-* Tutorial: HTML + CSS
+* Tutorial: [HTML + CSS](tutorials/03-html-css.md)
 
 __Wednesday 2018-09-19__
 
