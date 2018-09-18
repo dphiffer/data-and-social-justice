@@ -430,10 +430,10 @@ body {
 }
 ```
 
-## CSS import
+## Modular CSS
 
 You might be thinking, _that CSS boiler plate is pretty complicated_, and you would be right. CSS is complicated, generally speaking. As you are struggling through it, know that getting good at CSS is a very good skill to have.
 
 Here is one way we can make the CSS more manageable: `@import url("modular.css");`
 
-Take a look at the [blank](blank/) folder for an example of how to use CSS `@import` commands to modularize your CSS.
+What that does is include one CSS inside another one, which makes it all a little easier to manage. Take a look inside the [blank](blank/) folder for an example of how to use CSS `@import` commands to modularize your CSS.
