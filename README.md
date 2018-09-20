@@ -155,11 +155,11 @@ __Assignment__: _Create a persuasive audio/visual artifact and use it to organiz
 __Monday 2018-10-08__
 
 * Discussion
-* Guest speaker: Gina Kim
+* Tutorial: git + github
 
 __Wednesday 2018-10-10__
 
-* Tutorial: DNS + SSL/TLS
+* Tutorial: DNS + HTTPS
 * Midterm workshop
 
 __Readings__
@@ -236,8 +236,8 @@ __Wednesday 2018-11-07__
 
 __Readings__
 
-* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by [Brooke Gladstone](https://twitter.com/OTMBrooke)
-* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by [Simone Browne](https://en.wikipedia.org/wiki/Simone_Browne), [Heather Dewey-Hagborg](https://twitter.com/hdeweyh) and [Joerg Blumtritt](https://mastodon.social/@jbenno)
+* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by [Zeynep Tufekci](https://twitter.com/zeynep)
+* [The Moderators](https://fieldofvision.org/the-moderators) by [Adrian Chen](https://twitter.com/AdrianChen) and [Ciaran Cassidy](https://twitter.com/CiaranCass)
 
 ## Week 11: nobody knows you're a dog
 
@@ -253,8 +253,8 @@ __Wednesday 2018-11-14__
 
 __Readings__
 
-* [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/) by [Zeynep Tufekci](Zeynep Tufekci)
-* [The Moderators](https://fieldofvision.org/the-moderators) by [Adrian Chen](https://twitter.com/AdrianChen) and [Ciaran Cassidy](https://twitter.com/CiaranCass)
+* [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by [Robinson Meyer](https://twitter.com/yayitsrob)
+* [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/) by [Lily Hay Newman](https://twitter.com/lilyhnewman)
 
 __Assignment__: _Create a web-based work based on your social media archives_
 
@@ -263,7 +263,7 @@ __Assignment__: _Create a web-based work based on your social media archives_
 __Monday 2018-11-19__
 
 * Discussion
-* Tutorial: levels of detail
+* Guest speakers: Gina Kim + Allen Tan
 
 __Wednesday 2018-11-21__
 
@@ -307,8 +307,8 @@ __Wednesday 2018-12-05__
 
 __Readings__
 
-* [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by [Robinson Meyer](https://twitter.com/yayitsrob)
-* [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/) by [Lily Hay Newman](https://twitter.com/lilyhnewman)
+* [The Worst Thing We've Ever Done](https://www.wnycstudios.org/story/on-the-media-2018-06-01) by [Brooke Gladstone](https://twitter.com/OTMBrooke)
+* [Biopunk: Subverting Biopolitics](https://thenewinquiry.com/biopunk-subverting-biopolitics/) by [Simone Browne](https://en.wikipedia.org/wiki/Simone_Browne), [Heather Dewey-Hagborg](https://twitter.com/hdeweyh) and [Joerg Blumtritt](https://mastodon.social/@jbenno)
 
 __Assignment__: _Work on your final project._
 
