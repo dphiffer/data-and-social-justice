@@ -116,11 +116,11 @@ __Assignment__: _Analyze one episode of the [Brian Lehrer show on WNYC](https://
 __Monday 2018-09-24__
 
 * Discussion
-* Tutorial: HTML Forms + Mobile web
+* Tutorial: [HTML Forms](tutorials/04-html-forms.md)
 
 __Wednesday 2018-09-26__
 
-* Tutorial: JavaScript
+* Tutorial: Mobile Web
 * Video: [The Gap](https://vimeo.com/85040589) by [Ira Glass](https://twitter.com/iraglass)
 
 __Readings__
