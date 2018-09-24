@@ -100,13 +100,14 @@ __Monday 2018-09-17__
 
 __Wednesday 2018-09-19__
 
-* Tutorial: Web forms
-* Video: [The Gap](https://vimeo.com/85040589) by [Ira Glass](https://twitter.com/iraglass)
+* Workshop
+* Guest speaker: [Ellie Irons](https://ellieirons.com/)
 
 __Readings__
 
 * [Worms, Butterflies and Dandelions](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by [Taeyoon Choi](https://twitter.com/tchoi8)
 * [It’s not all lightbulbs](https://aeon.co/essays/most-of-the-time-innovators-don-t-move-fast-and-break-things) by [W. Patrick McCray](https://twitter.com/LeapingRobot)
+
 
 __Assignment__: _Analyze one episode of the [Brian Lehrer show on WNYC](https://www.wnyc.org/shows/bl). Listen to the live broadcast, weekdays at 10am-noon. Pay attention to audience participation, what are their questions, how well do you think they engage with the subjects being discussed? Call in with a question or comment, if you feel inclined to._
 
@@ -115,12 +116,12 @@ __Assignment__: _Analyze one episode of the [Brian Lehrer show on WNYC](https://
 __Monday 2018-09-24__
 
 * Discussion
-* Tutorial: Mobile web
+* Tutorial: HTML Forms + Mobile web
 
 __Wednesday 2018-09-26__
 
 * Tutorial: JavaScript
-* Guest speaker: tbd
+* Video: [The Gap](https://vimeo.com/85040589) by [Ira Glass](https://twitter.com/iraglass)
 
 __Readings__
 
