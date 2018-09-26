@@ -60,6 +60,8 @@ Add the following HTML (note that we aren't showing _all_ of the HTML in the fil
 </div>
 ```
 
+Recall that to save and quit out of `nano` the keyboard commands are, __Ctrl-O__ (enter) then __Ctrl-X__.
+
 The `<form>` element has two important attributes here: `action="subscribe.php"` controls _where the form will submit its data to_. And the `method="post"` controls what's called the HTTP method. We won't go into too much detail about HTTP methods here, but POST is commonly used for sending data to servers.
 
 Your form doesn't really look like much, but we are off to a good start.
@@ -70,9 +72,41 @@ Your form doesn't really look like much, but we are off to a good start.
 
 Currently our form doesn't really show anything. Let's add an email input and a submit button.
 
-```
+```html
 <form action="subscribe.php" method="post">
 	<input type="email" name="email">
 	<input type="submit" value="Subscribe">
 </form>
 ```
+
+The attributes here are `type`, `name`, and `value`. There are [many other attributes for inputs](https://www.w3schools.com/tags/tag_input.asp), but those are the most important ones.
+
+Now you should see an actual form materializing.
+
+![Input and button](img/04/04-1.jpg)
+
+## Handling form submissions
+
+The next thing we need to put in place is a script to handle the incoming submission. Currently the form is submitting to a non-existent file called `subscribe.php`. This was just a placeholder that we can replace with a new URL.
+
+We are using a form handler called [_octopoda_](https://github.com/dphiffer/octopoda/), hosted at [forms.organizer.network](https://forms.organizer.network/).
+
+* Go to https://forms.organizer.network/
+* Enter your email address
+* Check your email for an API key and some example code
+
+You should get an email with some sample HTML code that looks like this:
+
+```html
+<form action="https://forms.organizer.network/submit" method="post">
+	<input type="hidden" name="_key" value="xxxxxx">
+	<input type="text" name="name">
+	<input type="email" name="email">
+	<input type="submit" value="Subscribe">
+</form>
+```
+
+* Copy the `<input type="hidden" name="_key" value="xxxxxx">` part into your form HTML.
+* Try loading up the page and try submitting your email address
+
+You should end up on a page that says "Success!"
