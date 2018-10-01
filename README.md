@@ -137,7 +137,7 @@ __Event__: [Forward Union](http://www.forwardunion.org/) in NYC Saturday + Sunda
 __Monday 2018-10-01__
 
 * Discussion
-* Tutorial: images, screencaps, and GIFs
+* Reference: [images, screencaps, and GIFs](reference/images-screenshots-gifs.md)
 
 __Wednesday 2018-10-03__
 
