@@ -12,7 +12,7 @@ The visual rendition of a thing, is achieved through imagery. Online, images tak
 
 In this HTML you have an `<img>` tag, a file `fuji.jpg` is implied, and is accompanied by a textual `alt` attribute, provided for visually impaired visitors (and for search engines).
 
-![an illustration of Mount Fuji, with a cat looking over cherry blossom treetops](https://mltshp.com/p/1EEOD)
+![an illustration of Mount Fuji, with a cat looking over cherry blossom treetops](img/fuji.jpg)
 
 __Image tips__
 
