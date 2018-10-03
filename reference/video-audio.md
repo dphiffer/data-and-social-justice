@@ -1,11 +1,14 @@
-# Referencee Video and Audio
+# Reference: Video and Audio
 
 Moving images and sound-based content are both easy to include on your web page.
 
 ```html
 <video src="img/hallingdal.mp4" poster="img/hallingdal.jpg" controls loop>
   <!-- this content is displayed if the video cannot be shown -->
-  <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
+  <a href="img/hallingdal.mp4">
+    <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
+    This video could not be displayed, but you can load it by clicking here.
+  </a>
 </video>
 ```
 
@@ -18,5 +21,8 @@ The `<video>` tag has a few important attributes:
 
 <video src="img/hallingdal.mp4" poster="img/hallingdal.jpg" controls loop>
   <!-- this content is displayed if the video cannot be shown -->
-  <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
+  <a href="img/hallingdal.mp4">
+    <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
+    This video could not be displayed, but you can load it by clicking here.
+  </a>
 </video>
