@@ -32,6 +32,8 @@ You can find more documentation [on Wikipedia](https://en.wikipedia.org/wiki/HTM
   </a>
 </video>
 
+→ [__here is a working `<video>` example__](https://dsj.organizer.network/~dphiffer/video-audio/video.html)
+
 ## Audio
 
 The `<audio>` tag works very similarly to the `<video>` tag.
@@ -58,3 +60,5 @@ You can find more documentation [on Wikipedia](https://en.wikipedia.org/wiki/HTM
     This audio could not be displayed, but you can load it by clicking here.
   </a>
 </audio>
+
+→ [__here is a working `<audio>` example__](https://dsj.organizer.network/~dphiffer/video-audio/audio.html)
