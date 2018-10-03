@@ -1,11 +1,13 @@
 # Reference: Video and Audio
 
-Moving images and sound-based content are both easy to include on your web page.
+HTML5 makes it fairly easy (with some caveats) to embed audio and video content onto your web pages.
+
+## Video
 
 ```html
-<video src="img/hallingdal.mp4" poster="img/hallingdal.jpg" controls loop>
+<video src="video/hallingdal.mp4" poster="img/hallingdal.jpg" controls loop>
   <!-- this content is displayed if the video cannot be shown -->
-  <a href="img/hallingdal.mp4">
+  <a href="video/hallingdal.mp4">
     <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
     This video could not be displayed, but you can load it by clicking here.
   </a>
@@ -21,10 +23,24 @@ The `<video>` tag has a few important attributes:
 
 You can find more documentation [on Wikipedia](https://en.wikipedia.org/wiki/HTML5_video) and at [W3schools](https://www.w3schools.com/tags/tag_video.asp)
 
-<video src="img/hallingdal.mp4" poster="img/hallingdal.jpg" type='video/mp4; codecs="avc1.4D401E, mp4a.40.2"' controls loop>
+<video src="video/hallingdal.mp4" poster="img/hallingdal.jpg" controls loop>
   <!-- this content is displayed if the video cannot be shown -->
-  <a href="img/hallingdal.mp4">
+  <a href="video/hallingdal.mp4">
     <img src="img/hallingdal.jpg" alt="Overhead view of the blue rapids of the Hallingdal River in Norway">
     This video could not be displayed, but you can load it by clicking here.
   </a>
 </video>
+
+## Audio
+
+The `<audio>` tag works very similarly to the `<video>` tag.
+
+```html
+<audio src="audio/mlk.mp3" controls>
+  <!-- this content is displayed if the audio cannot be played -->
+  <a href="audio/mlk.mp3">
+    This audio could not be displayed, but you can load it by clicking here.
+  </a>
+</audio>
+```
+
