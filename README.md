@@ -141,7 +141,7 @@ __Monday 2018-10-01__
 
 __Wednesday 2018-10-03__
 
-* Tutorial: audio and video
+* Tutorial: [audio and video](reference/audio-video.md)
 * Case study: [Race, Discipline, and Safety at U.S. Public Schools](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline/race-discipline-and-safety-us-public-schools)
 
 __Readings__
@@ -156,7 +156,7 @@ __Assignment__: _Modify your petition to include a persuasive audio/visual artif
 __Monday 2018-10-08__
 
 * Discussion
-* Tutorial: git + github
+* Tutorial: [git + github](https://github.com/dphiffer/data-and-social-justice/blob/master/tutorials/05-git-github.md)
 
 __Wednesday 2018-10-10__
 
