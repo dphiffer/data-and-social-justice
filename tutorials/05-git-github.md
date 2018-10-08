@@ -14,7 +14,7 @@ If all of this feels overwhelming, don't worry, that's normal. Git is infamous f
 
 ## Create an account
 
-Before we can do anything, we'll need to create a (free) account on GitHub.
+Before we can do anything, we'll need to create a (free) account on [GitHub](https://github.com/).
 
 * Go to [github.com](https://github.com/) and sign up using the form on the front page
 * Choose the *free* option and click *continue* (you can skip the rest of the "account wizard" steps)
