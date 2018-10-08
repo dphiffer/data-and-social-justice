@@ -141,7 +141,7 @@ __Monday 2018-10-01__
 
 __Wednesday 2018-10-03__
 
-* Tutorial: [audio and video](reference/audio-video.md)
+* Tutorial: [audio and video](reference/video-audio.md)
 * Case study: [Race, Discipline, and Safety at U.S. Public Schools](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline/race-discipline-and-safety-us-public-schools)
 
 __Readings__
