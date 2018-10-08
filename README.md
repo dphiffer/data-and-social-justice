@@ -142,14 +142,14 @@ __Monday 2018-10-01__
 __Wednesday 2018-10-03__
 
 * Tutorial: audio and video
-* Case study: [FIREWALL Cafe](https://firewallcafe.com/) by [Joyce Yu-Jean Lee](https://firewallcafe.com/), et al.
+* Case study: [Race, Discipline, and Safety at U.S. Public Schools](https://www.aclu.org/issues/juvenile-justice/school-prison-pipeline/race-discipline-and-safety-us-public-schools)
 
 __Readings__
 
 * [Not all information wants to be free](http://tararobertson.ca/2016/lita-keynote/) by [Tara Robertson](https://twitter.com/tararobertson)
 * [How Not to be Seen: A Fucking Didactic Educational .MOV File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651) by [Hito Steyerl](https://en.wikipedia.org/wiki/Hito_Steyerl)
 
-__Assignment__: _Create a persuasive audio/visual artifact and use it to organize an outreach campaign using the contact list from your online petition. Encourage participants to share something with their friends, and to grow your list._
+__Assignment__: _Modify your petition to include a persuasive audio/visual artifact. When you're happy with how it looks and reads, start sharing it with people you might want to organize with. Include at least 3 people who are not fellow classmates._
 
 ## Week 6: the open internet
 
@@ -167,7 +167,7 @@ __Readings__
 
 * [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by [Wendy Hui Kyong Chun](https://twitter.com/whkchun)
 
-__Assignment__: _Work on your midterm project._
+__Assignment__: _Take what you have created so far this semester, and use it to take action in the most targeted way you can think of. The specific action you take will depend on the issue you're working on. It could be a pursuasive letter signed on behalf of a list of names, it could be a telephone campaign, you could organize a direct action (demonstration, sit-in, etc.), you could distribute pamphlets to raise awareness. It's up to you how you want to mobilize the contacts you've collected so far to enact change in the world. Make sure to document as much as you can so you can report back to class._
 
 ## Week 7: midterms
 
