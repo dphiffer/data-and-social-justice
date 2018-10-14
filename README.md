@@ -167,7 +167,7 @@ __Readings__
 
 * [Proxy Politics as Social Cybernetics](https://livestream.com/internetsociety2/cybercon/videos/166218044) by [Wendy Hui Kyong Chun](https://twitter.com/whkchun)
 
-__Assignment__: _Take what you have created so far this semester, and use it to take action in the most targeted way you can think of. The specific action you take will depend on the issue you're working on. It could be a persuasive letter signed on behalf of a list of names, it could be a telephone campaign, you could organize a direct action (demonstration, sit-in, etc.), you could distribute pamphlets to raise awareness. It's up to you how you want to mobilize the contacts you've collected so far to enact change in the world. Make sure to document as much as you can so you can report back to class._ *Due Wed 2018-10-15*
+__Assignment__: _Take what you have created so far this semester, and use it to take action in the most targeted way you can think of. The specific action you take will depend on the issue you're working on. It could be a persuasive letter signed on behalf of a list of names, it could be a telephone campaign, you could organize a direct action (demonstration, sit-in, etc.), you could distribute pamphlets to raise awareness. It's up to you how you want to mobilize the contacts you've collected so far to enact change in the world. Make sure to document as much as you can so you can report back to class._ *Due Mon 2018-10-15*
 
 ## Week 7: midterms
 
