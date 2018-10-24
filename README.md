@@ -185,7 +185,7 @@ __Readings__
 
 * [The Not-So-Hidden Politics of Class Online](http://www.danah.org/papers/talks/PDF2009.html) by [danah boyd](https://twitter.com/zephoria)
 
-## Week 8: data hoarding
+## Week 8: transition
 
 __Monday 2018-10-22__
 
@@ -194,7 +194,7 @@ __Monday 2018-10-22__
 __Wednesday 2018-10-24__
 
 * Discussion
-* Tutorial: Data scraping
+* Midterm presentations (continued)
 
 __Readings__
 
@@ -255,16 +255,16 @@ __Wednesday 2018-11-14__
 __Readings__
 
 * [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by [Robinson Meyer](https://twitter.com/yayitsrob)
-* [Police Bodycams Can Be Hacked to Doctor Footage](https://www.wired.com/story/police-body-camera-vulnerabilities/) by [Lily Hay Newman](https://twitter.com/lilyhnewman)
+* [In Suggestions for Victorious Bus Boycotters, MLK’s Powerful Turn Toward Nonviolence](https://slate.com/human-interest/2014/01/martin-luther-king-montgomery-improvement-association-advice-for-riding-desegregated-busses.html) by [Rebecca Onion](https://twitter.com/rebeccaonion)
 
 __Assignment__: _Create a web-based work based on your social media archives_
 
-## Week 12: where are we?
+## Week 12: know your rights
 
 __Monday 2018-11-19__
 
 * Discussion
-* Guest speakers: Gina Kim + Allen Tan
+* Guest speakers: [Gina Kim + Allen Tan](https://www.fastcompany.com/40407576/how-the-aclu-is-leading-the-resistance)
 
 __Wednesday 2018-11-21__
 
@@ -295,7 +295,7 @@ __Readings__
 
 __Assignment__: _Work on your final project._
 
-## Week 14: know your rights
+## Week 14: home stretch
 
 __Monday 2018-12-03__
 
@@ -304,7 +304,7 @@ __Monday 2018-12-03__
 
 __Wednesday 2018-12-05__
 
-* Guest speaker: tbd
+* Guest speaker: [Dhruv Mehrotra](https://twitter.com/dmehro)
 
 __Readings__
 
