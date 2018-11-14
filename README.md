@@ -257,7 +257,7 @@ __Readings__
 * [What to Say When the Police Tell You to Stop Filming Them](https://www.theatlantic.com/technology/archive/2015/04/what-to-say-when-the-police-tell-you-to-stop-filming-them/391610/) by [Robinson Meyer](https://twitter.com/yayitsrob)
 * [In Suggestions for Victorious Bus Boycotters, MLK’s Powerful Turn Toward Nonviolence](https://slate.com/human-interest/2014/01/martin-luther-king-montgomery-improvement-association-advice-for-riding-desegregated-busses.html) by [Rebecca Onion](https://twitter.com/rebeccaonion)
 
-__Assignment__: _Create a web-based work based on your social media archives_
+__Assignment__: _Create a web-based map based on social media archives. Check out [this introduction](https://mappa.js.org/docs/introduction-to-web-maps.html#web-map-libraries) and [these tutorials](https://www.mapbox.com/help/tutorials/)_
 
 ## Week 12: know your rights
 
